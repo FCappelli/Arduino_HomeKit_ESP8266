@@ -1,3 +1,8 @@
+# Arduino HomeKit ESP8266-S01 with Serial communication between Arduino Uno and the S01
+
+This repository is based on Mixiaoxiao library. My goal is to have the S01 handle the Wi-Fi connection, and the Arduino Uno manage LCD screen communication and accessories (that may be different depending on the use).
+
+
 # Arduino HomeKit ESP8266 
 
 
